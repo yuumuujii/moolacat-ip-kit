@@ -1,0 +1,124 @@
+{
+  "_note": "每个形态 = 一个基础 prompt（base）+ 替换 {{OUTFIT}} 的文字 + 固定顺序的垫图。垫图顺序就是发给生图模型的顺序。",
+  "_monocle_note": "单边眼镜：画面右侧 = 角色左眼，以 refs/identity-life-*.png 为准（2026-10-08 改定）。方向相反的旧垫图已镜像翻转，原图在 archive/refs-history/。",
+  "tech": {
+    "name": "科技金融形态",
+    "refs": [
+      {
+        "path": "refs/identity-tech.png",
+        "role": "identity"
+      },
+      {
+        "path": "refs/style/tech-surprised.jpg",
+        "role": "style"
+      },
+      {
+        "path": "refs/style/tech-smug.jpg",
+        "role": "style"
+      }
+    ],
+    "outfit": "OUTFIT & ACCESSORIES — TECH-FINANCE MODE:\nShe wears semi-transparent holographic goggles with a faint light-blue sheen, and faint light-blue digital patterns or reflections visible on the lenses.\nThe goggles are the only required accessory in this mode.\nNo monocle, no glasses chain, no beanie.",
+    "base": "prompt-base.txt"
+  },
+  "life": {
+    "name": "生活随笔形态",
+    "refs": [
+      {
+        "path": "refs/identity-life-beanie.png",
+        "role": "identity"
+      },
+      {
+        "path": "refs/style/life-laugh.png",
+        "role": "style"
+      },
+      {
+        "path": "refs/style/life-cheek.png",
+        "role": "style"
+      }
+    ],
+    "outfit": "OUTFIT & ACCESSORIES — EVERYDAY CASUAL MODE (生活随笔形态):\nRequired in every image: a single-lens round monocle (单边圆眼镜) worn over her {{MONOCLE_EYE}} only, with a fine long metal chain hanging down from the monocle. The chain must stay clearly visible in every image, hanging from the monocle down past her jaw; never hide it behind her hand or hair.\nNever replace the monocle with a pair of glasses; only one lens.\n{{BEANIE}}\nSmall drop earrings are optional.",
+    "monocle_eye": "LEFT eye (it appears on the RIGHT side of the image when she faces the viewer)",
+    "beanie_on": "She wears a plain ribbed knit beanie (针织冷帽) in one fixed color: a soft, slightly faded dusty denim navy, approximately #6B82A6 — lighter than dark navy, never black-blue, never bright royal blue. The beanie has no label, tag, logo or text on it.",
+    "beanie_off": "No hat in this image.",
+    "base": "prompt-base.txt",
+    "beanie_color": "#6B82A6",
+    "refs_no_beanie": [
+      {
+        "path": "refs/identity-life-nobeanie.png",
+        "role": "identity"
+      },
+      {
+        "path": "refs/style/life-laugh.png",
+        "role": "style"
+      },
+      {
+        "path": "refs/style/life-cheek.png",
+        "role": "style"
+      }
+    ]
+  },
+  "chibi-tech": {
+    "name": "Q 版 · 科技金融形态",
+    "base": "chibi/prompt-base.txt",
+    "refs": [
+      {
+        "path": "refs/chibi-tech-3.png",
+        "role": "identity"
+      }
+    ],
+    "outfit": "- ACCESSORIES: She wears her signature semi-transparent holographic goggles with a faint light-blue sheen and faint light-blue digital patterns on the lenses. The goggles are the only required accessory. No monocle, no glasses chain, no hats or headwear."
+  },
+  "chibi-life": {
+    "name": "Q 版 · 生活随笔形态",
+    "base": "chibi/prompt-base.txt",
+    "refs": [
+      {
+        "path": "refs/chibi-life-2.png",
+        "role": "identity"
+      },
+      {
+        "path": "refs/chibi-life-1.png",
+        "role": "identity"
+      }
+    ],
+    "outfit": "- ACCESSORIES: She is wearing her signature single-lens round monocle (单边圆眼镜) over her {{MONOCLE_EYE}} only, with a fine, long silver metal chain (细金属链) hanging down loosely. The chain must stay clearly visible in every image, hanging from the monocle down past her jaw; never hide it behind her hand or hair. Only one lens, never a pair of glasses. No hats or headwear.",
+    "monocle_eye": "LEFT eye (it appears on the RIGHT side of the image when she faces the viewer)"
+  },
+  "_refs_note": "refs 按顺序上传。role=identity：身份设定图，学脸、发型、配饰；role=style：已认可的成品图，学线条、水彩质感、配色温度和松弛度，不学姿势和表情。正常比例建议 1 张 identity + 2 张 style。",
+  "_identity_note": "垫图一（identity）为 2026-10-08 用户确认的固定身份图，永远不变：identity-tech / identity-life-beanie / identity-life-nobeanie。原图在 refs/sources/。",
+  "illus-tech": {
+    "name": "正文插图 · 科技金融（Q 版）",
+    "base": "../illustration/prompt-base.txt",
+    "refs": [
+      {
+        "path": "refs/chibi-tech-3.png",
+        "role": "identity"
+      },
+      {
+        "path": "../illustration/examples/ipstudio-value-creation.jpg",
+        "role": "scene-style"
+      }
+    ],
+    "outfit": "- ACCESSORIES: She wears her signature semi-transparent holographic goggles with a faint light-blue sheen and faint light-blue digital patterns on the lenses. The goggles are the only required accessory. No monocle, no glasses chain, no hats or headwear."
+  },
+  "illus-life": {
+    "name": "正文插图 · 生活随笔（Q 版）",
+    "base": "../illustration/prompt-base.txt",
+    "refs": [
+      {
+        "path": "refs/chibi-life-2.png",
+        "role": "identity"
+      },
+      {
+        "path": "refs/chibi-life-1.png",
+        "role": "identity"
+      },
+      {
+        "path": "../illustration/examples/ipstudio-value-creation.jpg",
+        "role": "scene-style"
+      }
+    ],
+    "outfit": "- ACCESSORIES: She is wearing her signature single-lens round monocle (单边圆眼镜) over her {{MONOCLE_EYE}} only, with a fine, long silver metal chain (细金属链) hanging down loosely. The chain must stay clearly visible in every image, hanging from the monocle down past her jaw; never hide it behind her hand or hair. Only one lens, never a pair of glasses. No hats or headwear.",
+    "monocle_eye": "LEFT eye (it appears on the RIGHT side of the image when she faces the viewer)"
+  }
+}

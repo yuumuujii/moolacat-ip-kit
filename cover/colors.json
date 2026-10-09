@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "scope": "只作用于封面的文字与装饰（标题、强调数字、波浪、线条）。角色图保持水彩全彩，不受此规则约束。",
+  "source": "改编自 mono-color-skill 的 Two-ink recipes：https://github.com/yanliudesign/mono-color-skill",
+  "rules": [
+    "每张封面只选一组双色配方，文字与装饰不出现第三种颜色（纸底色不算墨色）。",
+    "主色 dominant 承担 70%-85% 的着色面积：主标题、波浪主体。",
+    "主色偏浅（Powder Blue、Mint Green 等）时，主标题改用两色里更深的那一色，浅色用于副标题和波浪，保证缩略图里标题读得清。",
+    "纸底按配方自适应（参考 mono-color）：Neutral White 适合色彩鲜明、信息类；Cool Gray 适合科技、炭灰主导；Pale Beige 适合生活、旅行、阅读、温暖题材。每个配方的 substrate 是默认纸底，可手动覆盖。",
+    "强调色 accent 承担 15%-30%：前层波浪或一处小标注，每个用途都要有明确角色。",
+    "同一墨色的浅色版本（按透明度叠在纸底上）只算浓淡变化，不算新颜色，可用于波浪后层。",
+    "文字压在人物上时，描边用纸底色，保证可读。",
+    "人物身后的手绘大弧线固定用白色 #FFFFFF，呼应水彩画里的高光留白；白色与纸底同属「纸」，不算墨色。分层：纸底 → 波浪 → 白色弧线 → 人物 → 标题。"
+  ],
+  "substrates": [
+    {
+      "id": "neutral-white",
+      "name": "Neutral White",
+      "hex": "#FAFAF7",
+      "use_for": [
+        "默认"
+      ]
+    },
+    {
+      "id": "cool-gray",
+      "name": "Cool Gray",
+      "hex": "#E9E9E5",
+      "use_for": [
+        "科技金融",
+        "AI"
+      ]
+    },
+    {
+      "id": "pale-beige",
+      "name": "Pale Beige",
+      "hex": "#F5F1E8",
+      "use_for": [
+        "生活随笔"
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "powder-blue-signal-red",
+      "name": "Powder Blue + Signal Red",
+      "dominant": "#9EB8D3",
+      "accent": "#C83232",
+      "use_for": [
+        "攻略",
+        "信息密集"
+      ],
+      "substrate": "neutral-white",
+      "note": "浅色系，用户明确喜欢并保留（2026-10-08）；主标题自动用更深的那一色"
+    },
+    {
+      "id": "cobalt-terracotta",
+      "name": "Cobalt + Terracotta",
+      "dominant": "#2148B8",
+      "accent": "#C65F38",
+      "use_for": [
+        "生活",
+        "旅行"
+      ],
+      "substrate": "pale-beige"
+    },
+    {
+      "id": "botanical-green-oxblood",
+      "name": "Botanical Green + Oxblood",
+      "dominant": "#008A4B",
+      "accent": "#8F3434",
+      "use_for": [
+        "读书",
+        "自然"
+      ],
+      "substrate": "pale-beige"
+    },
+    {
+      "id": "charcoal-signal-red",
+      "name": "Charcoal + Signal Red",
+      "dominant": "#30343A",
+      "accent": "#C83232",
+      "use_for": [
+        "观点",
+        "复盘",
+        "报告"
+      ],
+      "substrate": "cool-gray"
+    },
+    {
+      "id": "electric-blue-carbon",
+      "name": "Electric Blue + Carbon",
+      "dominant": "#173AE3",
+      "accent": "#242321",
+      "use_for": [
+        "科技",
+        "高对比"
+      ],
+      "substrate": "neutral-white"
+    },
+    {
+      "id": "mint-green-charcoal",
+      "name": "Mint Green + Charcoal",
+      "dominant": "#5EB783",
+      "accent": "#302D2E",
+      "use_for": [
+        "随笔",
+        "长文"
+      ],
+      "substrate": "neutral-white",
+      "note": "浅色系，用户明确喜欢并保留（2026-10-08）；主标题自动用更深的那一色"
+    },
+    {
+      "id": "ultramarine-safety-orange",
+      "name": "Ultramarine + Safety Orange",
+      "dominant": "#263E99",
+      "accent": "#E55D2B",
+      "use_for": [
+        "科技金融",
+        "Web3",
+        "AI"
+      ],
+      "substrate": "cool-gray"
+    },
+    {
+      "id": "cyan-brick-red",
+      "name": "Cyan + Brick Red",
+      "dominant": "#159DDA",
+      "accent": "#B64032",
+      "use_for": [
+        "工具",
+        "产品"
+      ],
+      "substrate": "neutral-white"
+    },
+    {
+      "id": "tangerine-slate-blue",
+      "name": "Tangerine + Slate Blue",
+      "dominant": "#E46C2D",
+      "accent": "#4773A5",
+      "use_for": [
+        "活动",
+        "轻松话题"
+      ],
+      "substrate": "neutral-white"
+    }
+  ],
+  "defaults": {
+    "recipe": "auto",
+    "substrate": "auto",
+    "_note": "auto：按标题在 9 组配方里固定挑一组（同一标题结果不变），纸底跟随该配方的 substrate。"
+  }
+}

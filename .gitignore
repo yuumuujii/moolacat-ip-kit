@@ -1,0 +1,17 @@
+# 密钥与本地环境
+.env
+.venv/
+__pycache__/
+.DS_Store
+
+# 生成产物（可重新生成）
+outputs/
+
+# 本地归档：旧脚本、旧样张、历史垫图（不上传）
+archive/
+
+# 授权出处未核实的字体：只在本地使用，不分发
+cover/fonts/PFPinfanHutu.ttf
+
+# 本地预览配置
+.claude/

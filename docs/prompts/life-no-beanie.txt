@@ -1,0 +1,399 @@
+REFERENCE IMAGES (attached in this order):
+Image 1: identity sheet — copy her face, hairstyle, hair color and accessories exactly.
+Image 2: approved style reference — match its ink line quality, watercolor texture, color warmth and looseness exactly. Do not copy its pose, expression or outfit.
+Image 3: approved style reference — match its ink line quality, watercolor texture, color warmth and looseness exactly. Do not copy its pose, expression or outfit.
+The final image must look like it was drawn by the same artist as the style references, not cleaner, smoother or more digital than them.
+
+
+
+CHARACTER IDENTITY LOCK — SAME PERSON IN EVERY IMAGE
+
+
+
+FRAMING — BIG-HEAD CLOSE-UP (MANDATORY):
+
+Close-up portrait of her head. Her head fills most of the frame, about 60-70% of the image height.
+
+Crop at the shoulders: at most the tops of her shoulders and collarbones are visible.
+
+Nothing below the collarbones: no chest, no torso, no waist, no legs, no full body, no half body.
+
+Hands may appear only when they are raised to touch or frame her face.
+
+
+
+A young adult East Asian woman, approximately 24-26 years old.
+
+She must always remain the same character across different scenes, poses, outfits, expressions, camera angles and compositions.
+
+ISOLATED ON A SOLID, PURE WHITE BACKGROUND (#FFFFFF) WITH ZERO TEXTURES, SHADOWS, GRADIENTS, OR PAPER PATTERNS (PURE CUTOUT STYLE).
+
+Do not redesign her face, hairstyle, body proportions, age appearance or facial structure.
+
+
+
+FACE:
+
+A soft oval-shaped adult female face with gentle cheeks, a smooth jawline and a subtly pointed chin.
+
+Natural adult facial proportions, feminine but not exaggerated.
+
+Medium-large almond-shaped eyes with slightly lifted outer corners.
+
+Soft light brown to gray-brown irises, clear dark upper eyelid definition, naturally visible eyelashes.
+
+Thin, naturally curved eyebrows.
+
+A small, straight, delicate nose with a soft rounded tip.
+
+Small, soft lips with a subtle natural cupid's bow and gently curved mouth corners.
+
+No oversized anime eyes, no childish facial proportions, no exaggerated lips.
+
+
+
+HAIR — CRITICAL IDENTITY FEATURE:
+
+Shoulder-length dark chestnut brown hair.
+
+Deep chocolate-brown base with subtle warm brown highlights.
+
+Naturally wavy, loose and slightly messy.
+
+Center-parted or near-center-parted.
+
+Soft loose strands around the forehead, temples and cheeks.
+
+Several distinctive curved side strands and flyaway hairs frame the face.
+
+Hair ends naturally flip outward in an understated way.
+
+The hairstyle must remain loose, organic and hand-drawn.
+
+
+
+Do NOT turn the hair into:
+
+long straight hair, sleek bob hair, blunt bangs, symmetrical anime hair, ponytails, twin tails, heavily styled salon hair, or overly polished modern character-design hair.
+
+
+
+SKIN:
+
+Warm ivory-peach skin with subtle natural orange-pink blush.
+
+Soft handmade color variation, never porcelain white, never neon pink.
+
+
+
+BODY (identity reference only; this image shows only her head and shoulders):
+
+Slim, graceful adult female proportions.
+
+Fine natural shoulders, a gently defined waist, restrained feminine curves, natural hips and chest.
+
+Long legs.
+
+Approximately 7-7.5 heads tall.
+
+Elegant but realistic anatomy.
+
+Do not exaggerate breasts, hips or waist.
+
+Do not use childlike proportions.
+
+Do not make her extremely thin like a fashion illustration model.
+
+
+
+PERSONALITY / VIBE:
+
+Quiet, intelligent, slightly dreamy, relaxed, natural and subtly mature.
+
+Not kawaii, not childish, not overly glamorous, not an exaggerated cool beauty.
+
+She has the atmosphere of a natural young woman from a late-1980s to early-1990s Japanese youth manga.
+
+
+
+OUTFIT & ACCESSORIES — EVERYDAY CASUAL MODE (生活随笔形态):
+Required in every image: a single-lens round monocle (单边圆眼镜) worn over her LEFT eye (it appears on the RIGHT side of the image when she faces the viewer) only, with a fine long metal chain hanging down from the monocle. The chain must stay clearly visible in every image, hanging from the monocle down past her jaw; never hide it behind her hand or hair.
+Never replace the monocle with a pair of glasses; only one lens.
+No hat in this image.
+Small drop earrings are optional.
+
+
+
+CHARACTER CONSISTENCY:
+
+The face, eyes, nose, mouth, jawline, hairstyle, hair color, skin tone, body proportions and overall age must remain consistent with the reference character.
+
+Treat the reference image as the identity sheet of one specific recurring character, not merely as a style reference.
+
+
+STYLE LOCK — DO NOT DEVIATE
+
+
+
+Late-1980s to early-1990s Japanese youth manga illustration,
+
+traditional hand-drawn ink and watercolor character art,
+
+vintage printed-manga feeling on the character only.
+
+
+
+Loose hand-drawn pen lines with visible pressure variation.
+
+Organic black-brown ink contours.
+
+Slight wobble, broken lines, dry brush edges and tiny pen-tip irregularities.
+
+Outer contours slightly heavier than interior details.
+
+Facial features, hair strands and clothing folds use lighter thinner lines.
+
+Occasional sparse cross-hatching and short structural hatching in shadow areas.
+
+Never use large solid black shadow shapes.
+
+
+
+COLORING:
+
+Mostly flat color blocking with very thin translucent watercolor and marker washes.
+
+Warm muted vintage palette.
+
+Soft ivory undertone inside the character's colors only; the background itself stays pure white.
+
+Subtle pigment bleeding and imperfect handmade edges.
+
+Very restrained shading using only one or two darker layers of the same color family.
+
+No complex gradients.
+
+
+
+SKIN:
+
+warm ivory, pale peach, subtle burnt-orange blush.
+
+
+
+HAIR:
+
+deep chestnut brown, warm dark brown, extremely subtle ochre-brown translucent variation.
+
+
+
+CLOTHING:
+
+warm white, beige, muted terracotta, dusty orange, muted navy, earthy brown.
+
+
+
+TEXTURE (ON THE CHARACTER ONLY):
+
+soft watercolor grain within the painted areas,
+
+slight traditional print texture,
+
+subtle pigment unevenness,
+
+handmade analog illustration feeling.
+
+The background has no texture, grain, tint or vignette.
+
+
+
+The character must feel like an original hand-drawn Japanese manga illustration, isolated on a completely clean, solid pure white background (RGB 255, 255, 255) with no paper textures, drop shadows, or aging gradients,
+
+not a modern digital anime illustration.
+
+
+
+NEGATIVE PROMPT:
+
+
+
+different person,
+
+different face,
+
+different character design,
+
+changed hairstyle,
+
+long straight hair,
+
+short bob,
+
+blunt bangs,
+
+ponytail,
+
+twin tails,
+
+overly styled hair,
+
+black hair,
+
+blonde hair,
+
+red hair,
+
+
+
+child,
+
+teenage appearance,
+
+baby face,
+
+chibi,
+
+cute child proportions,
+
+oversized head,
+
+short legs,
+
+
+
+oversized anime eyes,
+
+extremely large eyes,
+
+round cartoon eyes,
+
+sharp seductive eyes,
+
+thick eyebrows,
+
+large lips,
+
+plump lips,
+
+highly sculpted nose,
+
+
+
+exaggerated breasts,
+
+exaggerated hips,
+
+extreme hourglass figure,
+
+extremely thin fashion-model body,
+
+
+
+photorealistic,
+
+3D render,
+
+CGI,
+
+plastic skin,
+
+glossy skin,
+
+modern digital anime,
+
+high-end anime key visual,
+
+cel shading,
+
+hard cel shadows,
+
+smooth vector line art,
+
+perfectly clean lineart,
+
+airbrushed rendering,
+
+digital painting,
+
+oil painting,
+
+hyper-detailed rendering,
+
+cinematic lighting,
+
+strong rim light,
+
+specular highlights,
+
+neon colors,
+
+high saturation,
+
+
+
+complex gradients,
+
+dramatic volumetric lighting,
+
+lens flare,
+
+bloom,
+
+gloss,
+
+metallic reflections,
+
+
+
+overly polished commercial anime,
+
+kawaii idol aesthetic,
+
+modern Korean webtoon aesthetic,
+
+fashion illustration,
+
+western comic style,
+
+
+
+thick black solid shadows,
+
+heavy rendering,
+
+excessive cross-hatching,
+
+photographic anatomy exaggeration,
+
+beige background,
+
+off-white background,
+
+paper texture background,
+
+vignette,
+
+visible paper edges,
+
+full body,
+
+half body,
+
+upper body below the chest,
+
+waist,
+
+legs,
+
+wide shot,
+
+small head in frame.
+
+SCENE (keep the big-head close-up framing above):
+[在这里写这一张图的表情、动作和服装（建议用英文）]
+
+
+--- 垫图（按顺序）---
+1. identity/refs/identity-life-nobeanie.png
+2. identity/refs/style/life-laugh.png
+3. identity/refs/style/life-cheek.png

@@ -1,0 +1,25 @@
+{{FORMAT}}
+
+VISUAL DNA:
+Pure white background (#FFFFFF). Light hand-drawn line art with slightly wobbly pen lines and soft washes. Lots of empty white space: the main subject takes about 40-60% of the canvas and at least 35% stays blank. Clean, slightly whimsical product-sketch feeling. No gradients, no drop shadows, no paper texture, no PPT infographic look.
+
+RECURRING CHARACTER (REQUIRED) — the author's personal IP in Q-version (chibi) form:
+The specific character from the identity reference image(s), drawn as a 2.5-heads-tall chibi, clearly recognizable.
+- HAIR: [一行]
+- FACE: [一行]
+{{OUTFIT}}
+
+ROLE OF THE CHARACTER:
+The character must perform the core conceptual action of the illustration, not stand beside the diagram as decoration. If removed, the idea should no longer make sense.
+
+SCENE:
+{{SCENE}}
+
+CHINESE HANDWRITTEN LABELS:
+At most 3-5 short handwritten labels, each 2-6 characters, written exactly as given in the SCENE, with small curved arrows. Orange only for the main flow, red only for one key result, blue only for a secondary note. No title, no sentences.
+
+STYLE LOCK:
+[你的画风一句话]
+
+NEGATIVE:
+different character, cluttered composition, dense text, top-left title, formal flowchart, PPT infographic, 3D render, beige background, paper texture background.

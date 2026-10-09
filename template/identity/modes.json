@@ -1,0 +1,44 @@
+{
+  "_note": "复制整个 template/identity 到 my-identity/，填好三份 prompt 和垫图，然后 export IP_IDENTITY_DIR=my-identity。可以删掉用不到的形态，也可以照着 main 再加形态。",
+  "main": {
+    "name": "主形态",
+    "base": "prompt-base.txt",
+    "refs": [
+      {
+        "path": "refs/identity.png",
+        "role": "identity"
+      },
+      {
+        "path": "refs/style/style-1.png",
+        "role": "style"
+      },
+      {
+        "path": "refs/style/style-2.png",
+        "role": "style"
+      }
+    ],
+    "outfit": "OUTFIT & ACCESSORIES:\n[写这个形态的标志性配饰，以及“哪些配饰绝对不要出现”。]"
+  },
+  "chibi": {
+    "name": "Q 版",
+    "base": "chibi-prompt-base.txt",
+    "refs": [
+      {
+        "path": "refs/chibi.png",
+        "role": "identity"
+      }
+    ],
+    "outfit": "- ACCESSORIES: [同 main 的配饰，一行]"
+  },
+  "illus": {
+    "name": "长文插图（Q 版）",
+    "base": "illustration-prompt-base.txt",
+    "refs": [
+      {
+        "path": "refs/chibi.png",
+        "role": "identity"
+      }
+    ],
+    "outfit": "- ACCESSORIES: [同 main 的配饰，一行]"
+  }
+}

@@ -1,0 +1,34 @@
+CHARACTER IDENTITY LOCK — SAME PERSON IN EVERY IMAGE
+
+FRAMING:
+[写构图要求，例如：Head-and-shoulders close-up, head fills 60-70% of the image height.]
+
+[一句话描述你的角色：年龄感、性别、种族/物种、整体气质。]
+She/He/They must always remain the same character across different scenes, poses, expressions and compositions.
+ISOLATED ON A SOLID, PURE WHITE BACKGROUND (#FFFFFF), no textures, shadows or gradients.
+
+FACE:
+[脸型、眼睛（形状 + 瞳色）、眉毛、鼻子、嘴。写具体，不写“好看”。]
+
+HAIR — CRITICAL IDENTITY FEATURE:
+[长度、颜色、卷直、分缝、标志性的那一缕。再写一行 Do NOT turn the hair into: ...]
+
+SKIN / BODY:
+[肤色、头身比、体型。]
+
+PERSONALITY / VIBE:
+[3-5 个形容词 + 一句“不要变成什么”。]
+
+{{OUTFIT}}
+
+CHARACTER CONSISTENCY:
+Treat the identity reference image as the identity sheet of one specific recurring character, not merely as a style reference.
+
+STYLE LOCK — DO NOT DEVIATE:
+[画风：年代/流派、线条、上色、质感。只作用于角色，背景保持纯白。]
+
+NEGATIVE PROMPT:
+[different person, different face, changed hairstyle, ... 以及你最怕模型画错的东西]
+
+SCENE:
+{{SCENE}}

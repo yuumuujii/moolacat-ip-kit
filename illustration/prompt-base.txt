@@ -1,0 +1,26 @@
+{{FORMAT}}
+
+VISUAL DNA:
+Pure white background (#FFFFFF). Light hand-drawn ink line art with slightly wobbly pen lines and soft, translucent watercolor washes. Lots of empty white space: the main subject takes about 40-60% of the canvas and at least 35% stays blank white. Clean, slightly whimsical product-sketch feeling. No gradients, no drop shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no realistic UI screenshots.
+
+RECURRING CHARACTER (REQUIRED) — the author's personal IP in Q-version (chibi) form:
+The specific young adult East Asian woman from the identity reference image(s), drawn as a cute 2.5-heads-tall chibi, clearly recognizable as the same character.
+- HAIR: messy, naturally wavy dark chestnut-brown shoulder-length hair, messy center parting, lots of organic flyaway strands, outward-flipping ends.
+- FACE: soft round chibi face with a gentle peach-pink blush, natural slightly lifted dark brown eyes, small natural eyebrows. Calm, quiet, focused expression unless the scene says otherwise. No oversized cartoon eyes.
+{{OUTFIT}}
+Accessories come ONLY from the identity reference and the accessory line above; never mix the goggles and the monocle in one image.
+
+ROLE OF THE CHARACTER:
+She must perform the core conceptual action of the illustration — pulling, carrying, sorting, building, weighing, typing, connecting — not stand beside the diagram as decoration. If she were removed, the idea should no longer make sense.
+
+SCENE:
+{{SCENE}}
+
+CHINESE HANDWRITTEN LABELS:
+At most 3-5 short handwritten Chinese labels, each 2-6 characters, written exactly as given in the SCENE. Thin dark ink handwriting with small curved arrows pointing to the right element. Use orange only for the main flow or arrow, red only for one key warning or result, blue only for a secondary note. No title in the top-left corner, no structure-type name, no sentences, no extra text beyond the given labels.
+
+STYLE LOCK:
+Late-1980s to early-1990s Japanese youth manga chibi illustration, traditional hand-drawn ink and watercolor. Visible varied-pressure pen lines with organic imperfections; delicate translucent washes with natural pigment bleeding; restrained, warm, muted palette. Clear but not instructional, interesting but not childish, whimsical but clean.
+
+NEGATIVE:
+different character, different hairstyle, black hair, long straight hair, monocle and goggles together, cluttered composition, dense text, paragraphs, top-left title, formal flowchart, course slide, PPT infographic, 3D render, glossy digital anime, cel shading, neon colors, high saturation, beige background, paper texture background, vignette.

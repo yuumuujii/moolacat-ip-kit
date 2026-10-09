@@ -1,0 +1,28 @@
+REFERENCE IMAGES (attached in this order):
+Image 1: identity sheet — copy her face, hairstyle, hair color and accessories exactly.
+Image 2: identity sheet — copy her face, hairstyle, hair color and accessories exactly.
+The final image must look like it was drawn by the same artist as the style references, not cleaner, smoother or more digital than them.
+
+
+
+A hand-drawn Q-version (chibi) watercolor illustration of the specific young adult East Asian woman from the reference image(s), in a cute 2.5-heads-tall proportion, clearly recognizable as the same character.
+
+The image is isolated on a solid, pure white background (#FFFFFF) with zero textures, drop shadows, or background elements (pure cutout style).
+
+【角色锁定特征 / IDENTITY LOCK (Based on the Reference Images)】:
+- HAIRSTYLE: Messy, naturally wavy dark chestnut-brown shoulder-length hair, adapted from the reference image(s) into a chibi style. It must keep her characteristic messy center parting, lots of organic flyaway strands, and characteristic outward-flipping ends framing her face. Rich, warm dark-brown tones with natural hand-drawn pen-and-watercolor texture.
+- FACE: Cute, chubby-cheeked round face with a gentle natural peach-pink blush, preserving the facial features and soft expression of the woman in the reference image(s) but adapted to cute, expressive chibi proportions. Natural, slightly lifted dark brown eyes with soft, natural lashes (retaining her gentle, quiet gaze from the original image) and small natural eyebrows. No oversized cartoonish distortions.
+- ACCESSORIES: She is wearing her signature single-lens round monocle (单边圆眼镜) over her LEFT eye (it appears on the RIGHT side of the image when she faces the viewer) only, with a fine, long silver metal chain (细金属链) hanging down loosely. The chain must stay clearly visible in every image, hanging from the monocle down past her jaw; never hide it behind her hand or hair. Only one lens, never a pair of glasses. No hats or headwear.
+
+【表情、动作与服装 / POSE, EXPRESSION & OUTFIT】:
+[在这里写这一张图的表情、动作和服装（建议用英文）]
+
+【画风锁定 / STYLE LOCK】:
+- Style: Late-1980s to early-1990s Japanese youth manga chibi illustration. Traditional hand-drawn ink and watercolor art, with a warm muted vintage palette (rich earth tones, beige, soft navy).
+- Lineart: Visible, varied-pressure pen lines with organic imperfections, slight wobble, and cross-hatching for shading (no solid black shadows).
+- Coloring: Delicate, translucent watercolor and marker washes with natural pigment bleeding and uneven borders, featuring a faint paper-grain texture only on the character. Fully cutout against a 100% flat #FFFFFF background.
+
+
+--- 垫图（按顺序）---
+1. identity/refs/chibi-life-2.png
+2. identity/refs/chibi-life-1.png

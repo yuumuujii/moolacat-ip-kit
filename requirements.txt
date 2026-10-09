@@ -1,0 +1,6 @@
+pillow>=12.0
+numpy
+rembg[cpu]>=2.0.85
+fonttools>=4.0
+opencv-python-headless
+google-genai>=2.0

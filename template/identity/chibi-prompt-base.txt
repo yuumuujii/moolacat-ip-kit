@@ -1,0 +1,14 @@
+A hand-drawn Q-version (chibi) illustration of the specific character from the reference image(s), in a cute 2.5-heads-tall proportion, clearly recognizable as the same character.
+
+The image is isolated on a solid, pure white background (#FFFFFF) with zero textures, drop shadows, or background elements.
+
+IDENTITY LOCK (based on the reference images):
+- HAIR: [同正常比例版本的发型描述，改成 Q 版：保留最有辨识度的 1-2 个特征]
+- FACE: [圆脸、腮红、眼睛形状和颜色；写明 No oversized cartoonish distortions]
+{{OUTFIT}}
+
+POSE, EXPRESSION & OUTFIT:
+{{SCENE}}
+
+STYLE LOCK:
+[同正常比例版本的画风，加一句 chibi illustration；质感只在角色身上，背景纯白]
